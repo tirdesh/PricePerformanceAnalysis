@@ -1,0 +1,101 @@
+Product Name,Base Price,Target Price,Ceiling Price
+Scanner 1,500,800,1000
+Printer 2,2000,3000,4000
+Photocopier A,1500,2500,3500
+Laser Printer X,3000,4500,6000
+Inkjet Printer Y,1000,1500,2000
+Scanner 2,800,1200,1600
+Color Laser Printer Z,4000,5500,7000
+Photocopier B,2500,3500,4500
+Fax Machine F,1200,1800,2400
+Digital Scanner D,700,1000,1300
+Scanner 3,1000,1500,2000
+Printer 4,3500,5000,6500
+Photocopier C,1800,2800,3800
+Laser Printer W,3200,4800,6400
+Inkjet Printer K,1300,2000,2600
+Scanner 4,1200,1800,2400
+Color Laser Printer M,4200,5800,7400
+Photocopier D,2300,3300,4300
+Fax Machine G,1400,2200,3000
+Digital Scanner E,900,1200,1500
+Scanner 5,1800,2500,3200
+Printer 6,4000,5500,7000
+Photocopier E,2700,3700,4700
+Laser Printer R,3800,5300,6800
+Inkjet Printer L,1900,2800,3700
+Scanner 6,1500,2000,2500
+Color Laser Printer N,4800,6300,7800
+Photocopier F,3200,4200,5200
+Fax Machine H,1600,2400,3200
+Digital Scanner F,1100,1400,1700
+Scanner 7,2200,2900,3600
+Printer 8,4500,6000,7500
+Photocopier G,3500,4500,5500
+Laser Printer S,4200,5700,7200
+Inkjet Printer P,2500,3300,4100
+Scanner 8,2000,2600,3200
+Color Laser Printer O,5300,6800,8300
+Photocopier H,4000,5000,6000
+Fax Machine I,1800,2600,3400
+Digital Scanner G,1300,1600,1900
+Scanner 9,2700,3500,4300
+Printer 10,5000,6500,8000
+Photocopier I,4800,5800,6800
+Laser Printer T,5600,7100,8600
+Inkjet Printer Q,3200,4000,4800
+Scanner 10,2400,3100,3800
+Color Laser Printer P,6000,7500,9000
+Photocopier J,5300,6300,7300
+Fax Machine J,2000,2800,3600
+Digital Scanner H,1600,1900,2200
+Scanner 11,3200,4000,4800
+Printer 12,5500,7000,8500
+Photocopier K,6000,7000,8000
+Laser Printer U,6500,8000,9500
+Inkjet Printer R,3800,4700,5600
+Scanner 12,2800,3600,4400
+Color Laser Printer Q,6800,8300,9800
+Photocopier L,7500,8500,9500
+Fax Machine K,2400,3200,4000
+Digital Scanner I,2000,2300,2600
+Scanner 13,3500,4300,5100
+Printer 14,6000,7500,9000
+Photocopier M,8000,9000,10000
+Laser Printer V,7200,8700,10200
+Inkjet Printer S,4500,5500,6500
+Scanner 14,4000,4800,5600
+Color Laser Printer R,7800,9300,10800
+Photocopier N,8700,9700,10700
+Fax Machine L,2800,3600,4400
+Digital Scanner J,2400,2700,3000
+Scanner 15,5000,5800,6600
+Printer 16,7000,8500,10000
+Photocopier O,9500,10500,11500
+Laser Printer X1,8900,10400,11900
+Inkjet Printer T,6000,7000,8000
+Scanner 16,5500,6300,7100
+Color Laser Printer S1,10800,12300,13800
+Photocopier P,11000,12000,13000
+Fax Machine M,3200,4000,4800
+Digital Scanner K,2800,3100,3400
+Scanner 17,7500,8300,9100
+Printer 18,9500,11000,12500
+Photocopier Q,12000,13000,14000
+Laser Printer Y1,11600,13100,14600
+Inkjet Printer U,7500,8500,9500
+Scanner 18,7000,7800,8600
+Color Laser Printer T1,12300,13800,15300
+Photocopier R,13000,14000,15000
+Fax Machine N,3600,4400,5200
+Digital Scanner L,3200,3500,3800
+Scanner 19,9200,10000,10800
+Printer 20,11000,12500,14000
+Photocopier S,14000,15000,16000
+Laser Printer Z1,13400,14900,16400
+Inkjet Printer V,8500,9500,10500
+Scanner 20,8000,8800,9600
+Color Laser Printer U1,14300,15800,17300
+Photocopier T,15000,16000,17000
+Fax Machine O,4000,4800,5600
+Digital Scanner M,3600,3900,4200
